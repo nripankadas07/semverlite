@@ -5,7 +5,7 @@ Strict semantic versioning 2.0.0 parsing, comparison, and utilities for Python d
 ## Installation
 
 ```bash
-pip install semverlite
+python -m pip install -e .
 ```
 
 ## Quick Start
